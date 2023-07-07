@@ -34,5 +34,3 @@ RUN echo "file_uploads = On\n" \
 
 # Enable headers module
 RUN a2enmod rewrite headers
-
-#RUN composer install
